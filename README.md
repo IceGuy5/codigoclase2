@@ -1,2 +1,2 @@
 # codigoclase2
-este codigo lo hizo Renzo Alva, disculpas que el nombre es IceGuy, es mi alias de internet.
+clase 2 de codland pro, hecho en clase, Renzo Alva.
